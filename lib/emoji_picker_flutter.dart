@@ -33,4 +33,3 @@ export 'package:emoji_picker_flutter/src/skin_tones/skin_tone_overlay.dart';
 export 'package:emoji_picker_flutter/src/skin_tones/triangle_decoration.dart';
 export 'package:emoji_picker_flutter/src/widgets/backspace_button.dart';
 export 'package:emoji_picker_flutter/src/widgets/emoji_cell.dart';
-export 'package:emoji_picker_flutter/src/category_view/category_view_config.dart';
